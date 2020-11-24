@@ -1,0 +1,16 @@
+{
+  "name": "discord-remote-cmd-exec",
+  "version": "1.0.0",
+  "description": "Remote control your device using discord.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "screenshot-desktop": "^1.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "garbageoverflow",
+  "license": "MIT"
+}

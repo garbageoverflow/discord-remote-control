@@ -1,0 +1,11 @@
+{
+    "id": "690103342411677706",
+    "token": "YOUR_TOKEN",
+    "prefix": ".",
+    "allowosinfo": true,
+    "allowscreenshot": true,
+    "allowcmdexec": true,
+    "allowreadfile": true,
+    "allowphotoview": true,
+    "allowntwinterfaces": true
+}
